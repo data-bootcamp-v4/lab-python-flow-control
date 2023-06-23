@@ -33,6 +33,8 @@
   <br>
   <hr> 
 
+</details>
+
 ## Introduction
 
 In this lab, you will practice how to use control structures to control the flow of a program's execution. Control structures are essential to programming as they enable the execution of a program to follow specific paths based on certain conditions. In this lab, you will practice writing code with various control structures, including if-else statements and loops.
