@@ -4,17 +4,19 @@
 
 <details>
   <summary>
-   <h2>Learning Goals</h2>
+   <b>Learning Goals</b>
   </summary>
 
+  <br>
+  
   This exercise allows you to practice and apply the concepts and techniques taught in class. 
 
   Upon completion of this exercise, you will be able to:
-  
-- Use if-else statements to control the flow of execution in a program based on conditions.
-- Use loops to repeat actions in a program.
-- Combine if-else statements and loops to create more complex programs.
-- Apply flow control statements to solve real-world programming problems.
+
+  - Use if-else statements to control the flow of execution in a program based on conditions.
+  - Use loops to repeat actions in a program.
+  - Combine if-else statements and loops to create more complex programs.
+  - Apply flow control statements to solve real-world programming problems.
   
   <br>
   <hr> 
@@ -24,9 +26,9 @@
 
 <details>
   <summary>
-   <h2>Prerequisites</h2>
+   <b>Prerequisites</b>
   </summary>
-  Before this starting this lab, you should have learnt about:
+  Before starting this lab, you should have learnt about:
 
 - Data types, operators and structures
 - Flow control (if-else statements and loops)
