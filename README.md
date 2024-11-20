@@ -1,53 +1,59 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | Flow control
+# LAB | Functions
 
 <details>
   <summary>
-   <b>Learning Goals</b>
+   <h2>Learning Goals</h2>
   </summary>
 
-  <br>
-  
   This exercise allows you to practice and apply the concepts and techniques taught in class. 
 
   Upon completion of this exercise, you will be able to:
-
-  - Use if-else statements to control the flow of execution in a program based on conditions.
-  - Use loops to repeat actions in a program.
-  - Combine if-else statements and loops to create more complex programs.
-  - Apply flow control statements to solve real-world programming problems.
   
+- Define and use functions to modularize code
+- Pass arguments to functions and return values from functions
+- Call functions from other functions
+- Use function encapsulation to control access to variables and functions
+
   <br>
   <hr> 
 
 </details>
-
 
 <details>
   <summary>
-   <b>Prerequisites</b>
+   <h2>Prerequisites</h2>
   </summary>
-  Before starting this lab, you should have learnt about:
+
+Before this starting this lab, you should have learnt about:
 
 - Data types, operators and structures
 - Flow control (if-else statements and loops)
+- Functions
+ 
   <br>
   <hr> 
 
 </details>
 
+
 ## Introduction
 
-In this lab, you will practice how to use control structures to control the flow of a program's execution. Control structures are essential to programming as they enable the execution of a program to follow specific paths based on certain conditions. In this lab, you will practice writing code with various control structures, including if-else statements and loops.
+In this lab, you will practice one of the most fundamental concepts of programming: functions. Functions are reusable blocks of code that perform specific tasks. They allow you to break up your code into smaller, more manageable pieces, making it easier to read, debug, and maintain.
 
-By the end of the lab, you should be able to identify situations that require the use of flow control, select the appropriate construct(s) to use, and write code that executes correctly and efficiently. You will also gain practical experience in coding, debugging, and testing programs that use flow control statements. This lab is designed for learners who are familiar with basic Python syntax and data types and are ready to expand their programming skills by learning how to control the flow of their programs.
+In this lab, you will learn how to define and call functions, pass arguments and return values. You will also learn how to call functions inside other functions and use encapsulation to hide implementation details.
 
-**This lab builds upon the solution from the previous exercise and enhances it by incorporating flow control mechanisms to create more robust and improved code.**
+By the end of this lab, you will have a solid understanding of functions and be able to apply this knowledge to write efficient, reusable, and maintainable code. 
+
+**This lab builds upon the solution from the previous exercise and enhances it by incorporating functions to create more robust and improved code.**
+
+Let's get started!
 
 <br>
 
 **Happy coding!** :heart:
+
 
 ## Requirements
 
@@ -70,6 +76,7 @@ git push origin master
 ```
 
 - Paste the link of your lab in Student Portal.
+
 
 ## FAQs
 <details>
@@ -113,3 +120,4 @@ If the link shown is the same as the main Ironhack repository, you will need to 
   [Back to top](#faqs)
 
 </details>
+
