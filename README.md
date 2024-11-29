@@ -1,5 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+<<<<<<< HEAD
 # LAB | Flow control
 
 <details>
@@ -17,12 +18,28 @@
   - Use loops to repeat actions in a program.
   - Combine if-else statements and loops to create more complex programs.
   - Apply flow control statements to solve real-world programming problems.
+=======
+# LAB | Python Data structures
+
+<details>
+  <summary>
+   <h2>Learning Goals</h2>
+  </summary>
+
+  This exercise allows you to practice and apply the concepts and techniques taught in class. 
+
+  Upon completion of this exercise, you will be able to:
+  
+  - Use different data structures such as lists, dictionaries, sets and tuples, to store and manipulate data.
+  - Access and modify data stored in data structures using indexing, slicing, or built-in methods.
+>>>>>>> 03971354697d829f791bb4f85dc86a57696c591f
   
   <br>
   <hr> 
 
 </details>
 
+<<<<<<< HEAD
 
 <details>
   <summary>
@@ -32,6 +49,18 @@
 
 - Data types, operators and structures
 - Flow control (if-else statements and loops)
+=======
+<details>
+  <summary>
+   <h2>Prerequisites</h2>
+  </summary>
+Before this starting this lab, you should have learnt about:
+
+- Basic Python syntax
+- Variables
+- Data types, operators and structures
+
+>>>>>>> 03971354697d829f791bb4f85dc86a57696c591f
   <br>
   <hr> 
 
@@ -39,16 +68,31 @@
 
 ## Introduction
 
+<<<<<<< HEAD
 In this lab, you will practice how to use control structures to control the flow of a program's execution. Control structures are essential to programming as they enable the execution of a program to follow specific paths based on certain conditions. In this lab, you will practice writing code with various control structures, including if-else statements and loops.
 
 By the end of the lab, you should be able to identify situations that require the use of flow control, select the appropriate construct(s) to use, and write code that executes correctly and efficiently. You will also gain practical experience in coding, debugging, and testing programs that use flow control statements. This lab is designed for learners who are familiar with basic Python syntax and data types and are ready to expand their programming skills by learning how to control the flow of their programs.
 
 **This lab builds upon the solution from the previous exercise and enhances it by incorporating flow control mechanisms to create more robust and improved code.**
+=======
+Welcome to your first data analytics bootcamp lab! In this lab, you will have the opportunity to dive into one of the fundamental building blocks of Python programming: data structures.
+
+As you may already know, data structures are collections of values that can be used to organize and manipulate data more efficiently, such as lists, dictionaries, sets, and tuples.
+
+Understanding data structures is essential to working with data in any programming language. It is a common practice to modify or manipulate data structures when performing various operations, such as filtering data, performing calculations, or extracting specific data elements.
+
+Through a series of lab exercises, you will have the opportunity to apply the concepts and techniques learned in class and gain a solid understanding of data structures. 
+>>>>>>> 03971354697d829f791bb4f85dc86a57696c591f
 
 <br>
 
 **Happy coding!** :heart:
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 03971354697d829f791bb4f85dc86a57696c591f
 ## Requirements
 
 - Fork this repo
@@ -113,3 +157,7 @@ If the link shown is the same as the main Ironhack repository, you will need to 
   [Back to top](#faqs)
 
 </details>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 03971354697d829f791bb4f85dc86a57696c591f
