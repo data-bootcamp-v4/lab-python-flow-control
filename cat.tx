@@ -1,0 +1,36 @@
+products = ["t-shirt", "mug", "hat", "book", "keychain"]
+inventory = {}
+for product in products:
+    quantity = int(input(f"Enter the quantity for {product}: "))
+    inventory[product] = quantity
+customer_orders = set()
+
+while True:
+    order = ""
+    while order not in products:
+        order = input(f"Enter a product to order (choose from {', '.join(products)}): ")
+        if order not in products:
+            print("Invalid product name. Please choose from the available products.")
+    customer_orders.add(order)
+    continue_ordering = input("Do you want to add another product? (yes/no): ").lower()
+    if continue_ordering != 'yes':
+        break
+        
+print("\nCustomer ordered the following products:")
+for item in customer_orders:
+    print(f"- {item}")
+
+total_products_ordered = len(customer_orders)
+percentage_ordered = (total_products_ordered / len(products)) * 100
+order_status = (total_products_ordered, percentage_ordered)
+
+print("\nOrder Statistics:")
+print(f"Total Products Ordered: {order_status[0]}")
+print(f"Percentage of Products Ordered: {order_status[1]:.2f}%")
+
+for product in customer_orders:
+    if inventory[product] > 0:
+        inventory[product] -= 1
+print("\nUpdated Inventory:")
+for product, quantity in inventory.items():
+    print(f"{product}: {quantity}")
